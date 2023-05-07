@@ -1,0 +1,310 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '56994173326@s.whatsapp.net',
+    fromMe: false,
+    id: '856C76830B3EB59AD8',
+    participant: undefined
+  },
+  messageTimestamp: 1683496603,
+  pushName: 'Cristian 🐾',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'Hola', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '56994173326'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56994173326@s.whatsapp.net',
+    fromMe: false,
+    id: '3E1EC545CE43FB5A46',
+    participant: undefined
+  },
+  messageTimestamp: 1683496605,
+  pushName: 'Cristian 🐾',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Cristian',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Cristian',
+  from: '56994173326'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56994173326@s.whatsapp.net',
+    fromMe: false,
+    id: 'BBF96823DCE98CE743',
+    participant: undefined
+  },
+  messageTimestamp: 1683496607,
+  pushName: 'Cristian 🐾',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'Hombre', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hombre',
+  from: '56994173326'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56994173326@s.whatsapp.net',
+    fromMe: false,
+    id: '7B7C7327247316117C',
+    participant: undefined
+  },
+  messageTimestamp: 1683496610,
+  pushName: 'Cristian 🐾',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'Tres', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Tres',
+  from: '56994173326'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56994173326@s.whatsapp.net',
+    fromMe: false,
+    id: '66ED1AF1CCAB7A4A74',
+    participant: undefined
+  },
+  messageTimestamp: 1683496617,
+  pushName: 'Cristian 🐾',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'No', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'No',
+  from: '56994173326'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56994173326@s.whatsapp.net',
+    fromMe: false,
+    id: '1E00628566FDBF212F',
+    participant: undefined
+  },
+  messageTimestamp: 1683496648,
+  pushName: 'Cristian 🐾',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: '02', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '02',
+  from: '56994173326'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56994173326@s.whatsapp.net',
+    fromMe: false,
+    id: 'A1EEABEBED03741036',
+    participant: undefined
+  },
+  messageTimestamp: 1683496653,
+  pushName: 'Cristian 🐾',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: '03', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '03',
+  from: '56994173326'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56994173326@s.whatsapp.net',
+    fromMe: false,
+    id: '54D1D71B1F2B19BF86',
+    participant: undefined
+  },
+  messageTimestamp: 1683496658,
+  pushName: 'Cristian 🐾',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: '11', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '11',
+  from: '56994173326'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56994173326@s.whatsapp.net',
+    fromMe: false,
+    id: 'CD8C76855A3AE328C9',
+    participant: undefined
+  },
+  messageTimestamp: 1683496664,
+  pushName: 'Cristian 🐾',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: '14', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '14',
+  from: '56994173326'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56994173326@s.whatsapp.net',
+    fromMe: false,
+    id: 'B9F7255DC578418565',
+    participant: undefined
+  },
+  messageTimestamp: 1683496676,
+  pushName: 'Cristian 🐾',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: '20', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '20',
+  from: '56994173326'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56994173326@s.whatsapp.net',
+    fromMe: false,
+    id: '6961768C365481BDB9',
+    participant: undefined
+  },
+  messageTimestamp: 1683496681,
+  pushName: 'Cristian 🐾',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: '28', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '28',
+  from: '56994173326'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56994173326@s.whatsapp.net',
+    fromMe: false,
+    id: 'CECDD888535208A1DF',
+    participant: undefined
+  },
+  messageTimestamp: 1683496684,
+  pushName: 'Cristian 🐾',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: '34', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '34',
+  from: '56994173326'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56994173326@s.whatsapp.net',
+    fromMe: false,
+    id: '45433D956133DB5AAE',
+    participant: undefined
+  },
+  messageTimestamp: 1683496689,
+  pushName: 'Cristian 🐾',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: '42', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '42',
+  from: '56994173326'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56994173326@s.whatsapp.net',
+    fromMe: false,
+    id: '230262605557173430',
+    participant: undefined
+  },
+  messageTimestamp: 1683496700,
+  pushName: 'Cristian 🐾',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: '50', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '50',
+  from: '56994173326'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56994173326@s.whatsapp.net',
+    fromMe: false,
+    id: '1E2149A71C36A2E744',
+    participant: undefined
+  },
+  messageTimestamp: 1683496702,
+  pushName: 'Cristian 🐾',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: '58', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '58',
+  from: '56994173326'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56994173326@s.whatsapp.net',
+    fromMe: false,
+    id: '6417930877A0F68410',
+    participant: undefined
+  },
+  messageTimestamp: 1683496777,
+  pushName: 'Cristian 🐾',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'CTRL + C',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'CTRL + C',
+  from: '56994173326'
+}
